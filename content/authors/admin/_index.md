@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Pham Duc DUong
+title: Pham Duc Duong
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Duong
+last_name: Pham Duc
 
 # Pronouns (optional)
 pronouns: he/him
