@@ -10,7 +10,7 @@ first_name: Duong
 last_name: Pham Duc
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: 
 
 # Status emoji
 status:
